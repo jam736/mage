@@ -170,7 +170,7 @@ class CelestialReunionCost extends CostImpl {
         }
         ChoiceCreatureType choice = new ChoiceCreatureType(game, source);
         player.choose(Outcome.Benefit, choice, game);
-        SubType subType = SubType.byDescription(choice.getChoice());
+        SubType subType = SubType.byDescription(choice.getChoiceKey());
         if (subType == null) {
             paid = false;
             return paid;
