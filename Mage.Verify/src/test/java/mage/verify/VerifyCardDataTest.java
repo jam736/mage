@@ -986,6 +986,7 @@ public class VerifyCardDataTest {
         ignoreBoosterSets.add("Unfinity");
         // other
         ignoreBoosterSets.add("Secret Lair Drop"); // cards shop
+        ignoreBoosterSets.add("Ugin's Fate"); // promo, not draftable
         ignoreBoosterSets.add("Zendikar Rising Expeditions"); // box toppers
         ignoreBoosterSets.add("March of the Machine: The Aftermath"); // epilogue boosters aren't for draft
         ignoreBoosterSets.add("Mystery Booster"); // temporary
