@@ -2127,7 +2127,7 @@ public class SecretLairDrop extends ExpansionSet {
         cards.add(new SetCardInfo("Unsubstantiate", 2158, Rarity.UNCOMMON, mage.cards.u.Unsubstantiate.class, RETRO_ART));
         cards.add(new SetCardInfo("Halimar Depths", 2159, Rarity.COMMON, mage.cards.h.HalimarDepths.class, RETRO_ART));
         cards.add(new SetCardInfo("Haunted Fengraf", 2160, Rarity.COMMON, mage.cards.h.HauntedFengraf.class, RETRO_ART));
-        cards.add(new SetCardInfo("Lonely Sandbar", 2161, Rarity.COMMON, mage.cards.l.LonelySandbar.class, RETRO_ART));
+        cards.add(new SetCardInfo("Lonely Sandbar", 2161, Rarity.UNCOMMON, mage.cards.l.LonelySandbar.class, RETRO_ART));
         cards.add(new SetCardInfo("Remote Isle", 2162, Rarity.COMMON, mage.cards.r.RemoteIsle.class, RETRO_ART));
         cards.add(new SetCardInfo("The Surgical Bay", 2163, Rarity.COMMON, mage.cards.t.TheSurgicalBay.class, RETRO_ART));
         cards.add(new SetCardInfo("Svyelunite Temple", 2164, Rarity.UNCOMMON, mage.cards.s.SvyeluniteTemple.class, RETRO_ART));
@@ -2237,7 +2237,7 @@ public class SecretLairDrop extends ExpansionSet {
         cards.add(new SetCardInfo("Anguished Unmaking", 2298, Rarity.RARE, mage.cards.a.AnguishedUnmaking.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Putrefy", 2299, Rarity.RARE, mage.cards.p.Putrefy.class));
         cards.add(new SetCardInfo("Silence", 2300, Rarity.RARE, mage.cards.s.Silence.class, NON_FULL_USE_VARIOUS));
-        cards.add(new SetCardInfo("Preordain", 2301, Rarity.COMMON, mage.cards.p.Preordain.class, NON_FULL_USE_VARIOUS));
+        cards.add(new SetCardInfo("Preordain", 2301, Rarity.RARE, mage.cards.p.Preordain.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Painful Truths", 2302, Rarity.RARE, mage.cards.p.PainfulTruths.class));
         cards.add(new SetCardInfo("Past in Flames", 2303, Rarity.MYTHIC, mage.cards.p.PastInFlames.class));
         cards.add(new SetCardInfo("Force of Vigor", 2304, Rarity.RARE, mage.cards.f.ForceOfVigor.class));
