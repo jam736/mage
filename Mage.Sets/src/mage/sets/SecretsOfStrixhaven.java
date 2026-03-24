@@ -21,6 +21,7 @@ public final class SecretsOfStrixhaven extends ExpansionSet {
         this.hasBasicLands = false; // temporary
 
         cards.add(new SetCardInfo("Arcane Omens", 73, Rarity.UNCOMMON, mage.cards.a.ArcaneOmens.class));
+        cards.add(new SetCardInfo("Archaic's Agony", 107, Rarity.UNCOMMON, mage.cards.a.ArchaicsAgony.class));
         cards.add(new SetCardInfo("Bogwater Lumaret", 177, Rarity.COMMON, mage.cards.b.BogwaterLumaret.class));
         cards.add(new SetCardInfo("Mathemagics", 320, Rarity.MYTHIC, mage.cards.m.Mathemagics.class, NON_FULL_USE_VARIOUS));
         cards.add(new SetCardInfo("Mathemagics", 58, Rarity.MYTHIC, mage.cards.m.Mathemagics.class, NON_FULL_USE_VARIOUS));
